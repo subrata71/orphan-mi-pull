@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "671fea8152a57f34da61689b_d7c611b8-abe5-480c-aa84-989c86fe0d33",
+  "id": "Page1_JSModule11",
+  "moduleUUID": "ced3c11a-03c3-4c1d-854a-73315054b43f",
+  "packageUUID": "53a24914-fc99-4f8f-a208-87656cf252e7",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "fetchUsersByFilter": "[]"
+    },
+    "moduleInputs": {
+      "pqmqboionf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "pqmqboionf",
+        "label": "fetchUsersByFilter",
+        "propertyName": "inputs.fetchUsersByFilter"
+      }
+    },
+    "name": "JSModule11",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
