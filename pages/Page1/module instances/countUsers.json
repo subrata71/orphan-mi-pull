@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67234a8427d62223dfa91989_448dc410-ab3f-48a8-83b2-f41c1b3edca0",
+  "id": "Page1_countUsers",
+  "moduleUUID": "ddc276ee-7a12-4362-80cf-1f7acba3c461",
+  "packageUUID": "64d7a804-7fae-4c39-acec-bda9e615bdf7",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "countUsers",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
